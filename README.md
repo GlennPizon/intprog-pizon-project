@@ -1,2 +1,2 @@
-# Javascript Review Project by write your_full_name
+# Javascript Review Project by Glenn Entia Pizon
 This project is a review of Javascript concepts, from beginners to ADVANCED.
